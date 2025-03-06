@@ -8,12 +8,13 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Research.qmd
       - People.qmd
+      - Join.qmd
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 
