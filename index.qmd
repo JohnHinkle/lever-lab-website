@@ -1,5 +1,5 @@
 ---
-title: "lever-lab-website"
+title: "Lever Lab"
 ---
 
 This is a Quarto website.
