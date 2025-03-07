@@ -6,6 +6,22 @@ title: "People"
 
 Associate Professor
 
+2022-present: Associate Professor, University of Texas at Austin, Marine Science Institute
+
+2014-present: Adjunct Professor, Aarhus University
+
+2014-2022: Assistant Professor, ETH Zürich
+
+2013-2014: Research Associate, Aarhus University
+
+2009-2012: Postdoctoral Researcher, Aarhus University
+
+2002-2008: PhD, University of North Carolina at Chapel Hill
+
+1999-2002: MA, Boston University
+
+1996-1999: BA, Boston University
+
 ```{=html}
 <link
   rel="stylesheet"
@@ -26,9 +42,13 @@ Laboratory Technician
 
 PhD Student
 
+2023-present: MS student, University of Texas at Austin, Marine Science Institute
+
 # **Claire White**
 
 MS Student
+
+2024-present: MS student, University of Texas at Austin, Marine Science Institute
 
 # **John Hinkle**
 
@@ -54,7 +74,9 @@ PhD Student
 
 # **Ariel Bellatin**
 
-Visiting PhD Student from the [Baker Lab](https://sites.utexas.edu/baker-lab/) at UT Austin
+Visiting Graduate Student from the [Baker Lab](https://sites.utexas.edu/baker-lab/) at UT Austin
+
+2024-present: Graduate student, University of Texas at Austin, Marine Science Institute
 
 # **Sarah Gerlach**
 
