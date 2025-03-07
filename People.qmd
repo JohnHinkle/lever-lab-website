@@ -38,17 +38,47 @@ Associate Professor
 
 Laboratory Technician
 
+```{=html}
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/coloured-icons@1.9.0/src/app/ci.min.css"
+/>
+<div class="social-icons">
+        <a href="mailto:daniel.hardin@austin.utexas.edu" rel="noopener noreferrer"><i class="ci ci-gmail ci-2x"></i></a>
+      </div>
+```
+
 # **Kaitlyn Callagher**
 
 PhD Student
 
 2023-present: MS student, University of Texas at Austin, Marine Science Institute
 
+```{=html}
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/coloured-icons@1.9.0/src/app/ci.min.css"
+/>
+<div class="social-icons">
+        <a href="mailto:k.callagher@utexas.edu" rel="noopener noreferrer"><i class="ci ci-gmail ci-2x"></i></a>
+      </div>
+```
+
 # **Claire White**
 
 MS Student
 
 2024-present: MS student, University of Texas at Austin, Marine Science Institute
+
+```{=html}
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/coloured-icons@1.9.0/src/app/ci.min.css"
+/>
+<div class="social-icons">
+        <a href="mailto:claire.white@austin.utexas.edu" rel="noopener noreferrer"><i class="ci ci-gmail ci-2x"></i></a>
+      </div>
+```
 
 # **John Hinkle**
 
@@ -77,6 +107,16 @@ PhD Student
 Visiting Graduate Student from the [Baker Lab](https://sites.utexas.edu/baker-lab/) at UT Austin
 
 2024-present: Graduate student, University of Texas at Austin, Marine Science Institute
+
+```{=html}
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/coloured-icons@1.9.0/src/app/ci.min.css"
+/>
+<div class="social-icons">
+        <a href="mailto:arielbellatin@utexas.edu" rel="noopener noreferrer"><i class="ci ci-gmail ci-2x"></i></a>
+      </div>
+```
 
 # **Sarah Gerlach**
 
