@@ -54,6 +54,8 @@ title: "People"
 
 **PhD Student**
 
+[Research focus:]{.underline} Text
+
 2023-present: MS student, University of Texas at Austin, Marine Science Institute
 
 ```{=html}
@@ -70,6 +72,8 @@ title: "People"
 
 **MS Student**
 
+[Research focus:]{.underline} Text
+
 2024-present: MS student, University of Texas at Austin, Marine Science Institute
 
 ```{=html}
@@ -85,6 +89,8 @@ title: "People"
 # **John Hinkle**
 
 **PhD Student**
+
+[Research focus:]{.underline} Microbial ecology of abyssal sediments influenced by diffuse hydrothermal fluid flow
 
 2024-present: PhD student, University of Texas at Austin, Marine Science Institute
 
@@ -108,6 +114,8 @@ title: "People"
 
 **Visiting Graduate Student** from the [Baker Lab](https://sites.utexas.edu/baker-lab/) at UT Austin
 
+[Research focus:]{.underline} Text
+
 2024-present: Graduate student, University of Texas at Austin, Marine Science Institute
 
 ```{=html}
@@ -124,3 +132,5 @@ title: "People"
 # **Sarah Gerlach**
 
 **Undergraduate Student**
+
+[Research focus:]{.underline} Text
