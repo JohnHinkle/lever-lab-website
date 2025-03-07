@@ -4,7 +4,7 @@ title: "People"
 
 # **Dr. Mark A. Lever**
 
-Associate Professor
+**Principal Investigator**
 
 2022-present: Associate Professor, University of Texas at Austin, Marine Science Institute
 
@@ -28,7 +28,7 @@ Associate Professor
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/coloured-icons@1.9.0/src/app/ci.min.css"
 />
 <div class="social-icons">
-        <a href="mailto:mark.lever@austin.utexas.edu" rel="noopener noreferrer"><i class="ci ci-gmail ci-2x"></i></a>
+        <a href="mailto:mark.lever@austin.utexas.edu" rel="noopener noreferrer"><i class="ci ci-outlook ci-2x"></i></a>
         <a href="https://orcid.org/0000-0002-2046-8028" target="_blank" rel="noopener noreferrer"><i class="ci ci-orcid ci-2x"></i></a>
         <a href="https://scholar.google.ch/citations?user=DG5WZZEAAAAJ&hl=en" target="_blank" rel="noopener noreferrer"><i class="ci ci-scholar ci-2x"></i></a>
       </div>
@@ -36,7 +36,7 @@ Associate Professor
 
 # **Daniel Hardin**
 
-Research Scientist Assistant
+**Research Scientist Assistant**
 
 2024-present: Research Scientist Assistant, University of Texas at Austin, Marine Science Institute
 
@@ -46,13 +46,13 @@ Research Scientist Assistant
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/coloured-icons@1.9.0/src/app/ci.min.css"
 />
 <div class="social-icons">
-        <a href="mailto:daniel.hardin@austin.utexas.edu" rel="noopener noreferrer"><i class="ci ci-gmail ci-2x"></i></a>
+        <a href="mailto:daniel.hardin@austin.utexas.edu" rel="noopener noreferrer"><i class="ci ci-outlook ci-2x"></i></a>
       </div>
 ```
 
 # **Kaitlyn Callagher**
 
-PhD Student
+**PhD Student**
 
 2023-present: MS student, University of Texas at Austin, Marine Science Institute
 
@@ -62,13 +62,13 @@ PhD Student
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/coloured-icons@1.9.0/src/app/ci.min.css"
 />
 <div class="social-icons">
-        <a href="mailto:k.callagher@utexas.edu" rel="noopener noreferrer"><i class="ci ci-gmail ci-2x"></i></a>
+        <a href="mailto:k.callagher@utexas.edu" rel="noopener noreferrer"><i class="ci ci-outlook ci-2x"></i></a>
       </div>
 ```
 
 # **Claire White**
 
-MS Student
+**MS Student**
 
 2024-present: MS student, University of Texas at Austin, Marine Science Institute
 
@@ -78,13 +78,13 @@ MS Student
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/coloured-icons@1.9.0/src/app/ci.min.css"
 />
 <div class="social-icons">
-        <a href="mailto:claire.white@austin.utexas.edu" rel="noopener noreferrer"><i class="ci ci-gmail ci-2x"></i></a>
+        <a href="mailto:claire.white@austin.utexas.edu" rel="noopener noreferrer"><i class="ci ci-outlook ci-2x"></i></a>
       </div>
 ```
 
 # **John Hinkle**
 
-PhD Student
+**PhD Student**
 
 2024-present: PhD student, University of Texas at Austin, Marine Science Institute
 
@@ -96,8 +96,8 @@ PhD Student
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/coloured-icons@1.9.0/src/app/ci.min.css"
 />
 <div class="social-icons">
+        <a href="mailto:john.hinkle@utexas.edu" rel="noopener noreferrer"><i class="ci ci-outlook ci-2x"></i></a>
         <a href="https://www.linkedin.com/in/johnehinkle/" target="_blank" rel="noopener noreferrer"><i class="ci ci-linkedin ci-2x"></i></a>
-        <a href="mailto:john.hinkle@utexas.edu" rel="noopener noreferrer"><i class="ci ci-gmail ci-2x"></i></a>
         <a href="https://bsky.app/profile/johnehinkle.bsky.social" target="_blank" rel="noopener noreferrer"><i class="ci ci-bluesky ci-2x"></i></a>
         <a href="https://orcid.org/0000-0002-6381-4621" target="_blank" rel="noopener noreferrer"><i class="ci ci-orcid ci-2x"></i></a>
         <a href="https://scholar.google.com/citations?user=C_TSJ8AAAAAJ&hl=en&oi=ao" target="_blank" rel="noopener noreferrer"><i class="ci ci-scholar ci-2x"></i></a>
@@ -106,7 +106,7 @@ PhD Student
 
 # **Ariel Bellatin**
 
-Visiting Graduate Student from the [Baker Lab](https://sites.utexas.edu/baker-lab/) at UT Austin
+**Visiting Graduate Student** from the [Baker Lab](https://sites.utexas.edu/baker-lab/) at UT Austin
 
 2024-present: Graduate student, University of Texas at Austin, Marine Science Institute
 
@@ -116,10 +116,11 @@ Visiting Graduate Student from the [Baker Lab](https://sites.utexas.edu/baker-la
   href="https://cdn.jsdelivr.net/gh/dheereshagrwal/coloured-icons@1.9.0/src/app/ci.min.css"
 />
 <div class="social-icons">
-        <a href="mailto:arielbellatin@utexas.edu" rel="noopener noreferrer"><i class="ci ci-gmail ci-2x"></i></a>
+        <a href="mailto:arielbellatin@utexas.edu" rel="noopener noreferrer"><i class="ci ci-outlook ci-2x"></i></a>
+                <a href="https://bsky.app/profile/archaeabella.bsky.social" target="_blank" rel="noopener noreferrer"><i class="ci ci-bluesky ci-2x"></i></a>
       </div>
 ```
 
 # **Sarah Gerlach**
 
-Undergraduate Student
+**Undergraduate Student**
