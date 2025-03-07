@@ -56,7 +56,7 @@ title: "People"
 
 [Research focus:]{.underline} Text
 
-2023-present: MS student, University of Texas at Austin, Marine Science Institute
+2023-present: PhD student, University of Texas at Austin, Marine Science Institute
 
 ```{=html}
 <link
