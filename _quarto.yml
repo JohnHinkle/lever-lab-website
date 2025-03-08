@@ -11,7 +11,9 @@ website:
       - Research.qmd
       - People.qmd
       - Join.qmd
-  announcement: 
+      
+website: 
+    announcement: 
     icon: info-circle
     dismissable: true
     content: "**Alert** - this is some information that you should pay attention to"
