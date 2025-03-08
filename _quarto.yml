@@ -11,6 +11,10 @@ website:
       - Research.qmd
       - People.qmd
       - Join.qmd
+
+website:
+  twitter-card: true
+  
 format:
   html:
     theme: minty
