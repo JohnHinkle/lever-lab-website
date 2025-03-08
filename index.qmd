@@ -3,7 +3,7 @@ title: "Lever Lab"
 subtitle: "Marine Biogeochemistry and Geobiology"
 ---
 
-**THIS WEBSITE IS UNDER CONSTRUCTION! SOME INFORMATION MAY BE INCOMPLETE OR INACCURATE.**
+**THIS WEBSITE IS UNDER CONSTRUCTION!! SOME INFORMATION MAY BE INCOMPLETE OR INACCURATE.**
 
 The Lever Lab is located at the University of Texas Marine Science Institute in Port Aransas, TX.
 
