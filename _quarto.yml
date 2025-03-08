@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Lever Lab"
+  open-graph: true
   navbar:
     left:
       - href: index.qmd
@@ -11,18 +12,12 @@ website:
       - Research.qmd
       - People.qmd
       - Join.qmd
-
-website:
-  twitter-card: true
-
-website:
-  open-graph: true
   
 format:
   html:
     theme:
-      light: flatly
-      dark: darkly
+      light: minty
+      dark: [minty, theme-dark.scss]
     css: styles.css
     toc: true
 
