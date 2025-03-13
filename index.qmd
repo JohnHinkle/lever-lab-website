@@ -1,10 +1,9 @@
 ---
-title: "Lever Lab"
-subtitle: "Marine Biogeochemistry and Geobiology"
+title: "Texas Biogeochemistry Symposium"
 ---
 
-**THIS WEBSITE IS UNDER CONSTRUCTION!! SOME INFORMATION MAY BE INCOMPLETE OR INACCURATE.**
+Welcome to the Texas Biogeochemistry Symposium!
 
-The Lever Lab is located at the University of Texas Marine Science Institute in Port Aransas, TX.
+The Texas Biogeochemistry Symposium is an opportunity for researchers in Texas and nearby states to present their latest research in biogeochemistry and related fields.
 
-We pursue research questions of broad significance concerning the mechanistic and quantitative influence of microorganisms, humans, and abiotic factors on the short- and long-term fate of organic carbon in aquatic sediments and Earth’s crust.
+The Texas Biogeochemistry Symposium will take place \[insert dates\] at the University of Texas Marine Science Institute in Port Aransas, TX.
