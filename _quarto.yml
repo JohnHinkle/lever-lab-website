@@ -3,21 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Texas Biogeochemistry Symposium"
+  title: "Lever Lab"
   open-graph: true
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - Registration.qmd
-      - Schedule.qmd
-      - Resources.qmd
+      - Research.qmd
+      - People.qmd
+      - Join.qmd
   
 format:
   html:
     theme:
-      light: united
-      dark: [united, theme-dark.scss]
+      light: minty
+      dark: [minty, theme-dark.scss]
     css: styles.css
     toc: true
 
