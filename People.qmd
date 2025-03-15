@@ -52,7 +52,7 @@ title: "People"
 
 [Research focus:]{.underline} Text
 
-2023-present: PhD student, University of Texas at Austin, Marine Science Institute
+2023-present: PhD student, Marine Science, University of Texas at Austin, Marine Science Institute
 
 ```{=html}
 <div class="social-icons">
@@ -66,7 +66,7 @@ title: "People"
 
 [Research focus:]{.underline} Text
 
-2024-present: MS student, University of Texas at Austin, Marine Science Institute
+2024-present: MS student, Marine Science, University of Texas at Austin, Marine Science Institute
 
 ```{=html}
 <div class="social-icons">
@@ -80,9 +80,11 @@ title: "People"
 
 [Research focus:]{.underline} Microbial ecology of abyssal sediments influenced by diffuse hydrothermal fluid flow
 
-2024-present: PhD student, University of Texas at Austin, Marine Science Institute
+2024-present: PhD student, Marine Science, University of Texas at Austin, Marine Science Institute
 
-2020-2024: BS, University of North Carolina at Chapel Hill
+2023-2024: Certificate, Applied Data Science, University of North Carolina at Chapel Hill
+
+2020-2024: BS, Biology, University of North Carolina at Chapel Hill
 
 ```{=html}
 <div class="social-icons">
@@ -100,7 +102,7 @@ title: "People"
 
 [Research focus:]{.underline} Text
 
-2024-present: Graduate student, University of Texas at Austin, Marine Science Institute
+2024-present: Graduate student, Marine Science, University of Texas at Austin, Marine Science Institute
 
 ```{=html}
 <div class="social-icons">
