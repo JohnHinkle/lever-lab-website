@@ -11,6 +11,8 @@ website:
         text: Home
       - Research.qmd
       - People.qmd
+      - Publications.qmd
+      - Outreach.qmd
       - Join.qmd
   
 format:
