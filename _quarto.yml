@@ -9,8 +9,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - Research.qmd
       - People.qmd
+      - Research.qmd
       - Publications.qmd
       - Outreach.qmd
       - Join.qmd
