@@ -100,14 +100,19 @@ title: "People"
 
 **Visiting Graduate Student** from the [Baker Lab](https://sites.utexas.edu/baker-lab/) at UT Austin
 
-[Research focus:]{.underline} Text
+[Research focus:]{.underline} Microbial ecology of deep-sea sediments
 
 2024-present: Graduate student, Marine Science, University of Texas at Austin, Marine Science Institute
+
+2021-2024: Lab Manager, University of Texas at Austin
+
+2017-2021: BS, Evolutionary Biology, Texas Tech University
 
 ```{=html}
 <div class="social-icons">
         <a href="mailto:arielbellatin@utexas.edu" rel="noopener noreferrer"><i class="ci ci-outlook ci-2x"></i></a>
-                <a href="https://bsky.app/profile/archaeabella.bsky.social" target="_blank" rel="noopener noreferrer"><i class="ci ci-bluesky ci-2x"></i></a>
+        <a href="www.linkedin.com/in/ariel-bellatin" target="_blank" rel="noopener noreferrer"><i class="ci ci-linkedin ci-2x"></i></a>
+        <a href="https://orcid.org/0009-0002-2849-4957" target="_blank" rel="noopener noreferrer"><i class="ci ci-orcid ci-2x"></i></a>
       </div>
 ```
 
