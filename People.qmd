@@ -116,8 +116,19 @@ title: "People"
       </div>
 ```
 
-# **Sarah Gerlach**
+# **Sarah Vienna Gerlach**
 
 **Undergraduate Student, Semester By The Sea**
 
-[Research focus:]{.underline} Text
+[Research focus:]{.underline} Anaerobic microbial electron transfer methods and biogeochemistry
+
+BS, Biology, University of Texas at Austin
+
+```{=html}
+<div class="social-icons">
+        <a href="mailto:svgerlach@utexas.edu" rel="noopener noreferrer"><i class="ci ci-outlook ci-2x"></i></a>
+        <a href="https://www.linkedin.com/in/sarah-v-gerlach/" target="_blank" rel="noopener noreferrer"><i class="ci ci-linkedin ci-2x"></i></a>
+      </div>
+```
+
+# 
