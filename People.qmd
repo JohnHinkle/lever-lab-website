@@ -114,7 +114,7 @@ title: "People"
 ```{=html}
 <div class="social-icons">
         <a href="mailto:arielbellatin@utexas.edu" rel="noopener noreferrer"><i class="ci ci-outlook ci-2x"></i></a>
-        <a href="www.linkedin.com/in/ariel-bellatin" target="_blank" rel="noopener noreferrer"><i class="ci ci-linkedin ci-2x"></i></a>
+        <a href="https://www.linkedin.com/in/ariel-bellatin/" target="_blank" rel="noopener noreferrer"><i class="ci ci-linkedin ci-2x"></i></a>
         <a href="https://orcid.org/0009-0002-2849-4957" target="_blank" rel="noopener noreferrer"><i class="ci ci-orcid ci-2x"></i></a>
       </div>
 ```
