@@ -52,7 +52,7 @@ title: "People"
 
 [Research focus:]{.underline} Text
 
-2023-present: PhD student, Marine Science, University of Texas at Austin, Marine Science Institute
+2023-present: PhD Student, Marine Science, University of Texas at Austin, Marine Science Institute
 
 ```{=html}
 <div class="social-icons">
@@ -64,13 +64,16 @@ title: "People"
 
 **MS Student**
 
-[Research focus:]{.underline} Text
+[Research focus:]{.underline} Cultivation of native macroalgal species in Texas
 
-2024-present: MS student, Marine Science, University of Texas at Austin, Marine Science Institute
+2024-present: MS Student, Marine Science, University of Texas at Austin, Marine Science Institute
+
+2019-2023: BS, Marine Biology, College of Charleston
 
 ```{=html}
 <div class="social-icons">
         <a href="mailto:claire.white@austin.utexas.edu" rel="noopener noreferrer"><i class="ci ci-outlook ci-2x"></i></a>
+        <a href=" https://www.linkedin.com/in/claire-white-709404197/" target="_blank" rel="noopener noreferrer"><i class="ci ci-linkedin ci-2x"></i></a>
       </div>
 ```
 
@@ -80,7 +83,7 @@ title: "People"
 
 [Research focus:]{.underline} Microbial ecology of abyssal sediments influenced by diffuse hydrothermal fluid flow
 
-2024-present: PhD student, Marine Science, University of Texas at Austin, Marine Science Institute
+2024-present: PhD Student, Marine Science, University of Texas at Austin, Marine Science Institute
 
 2023-2024: Certificate, Applied Data Science, University of North Carolina at Chapel Hill
 
@@ -102,7 +105,7 @@ title: "People"
 
 [Research focus:]{.underline} Microbial ecology of deep-sea sediments
 
-2024-present: Graduate student, Marine Science, University of Texas at Austin, Marine Science Institute
+2024-present: Graduate Student, Marine Science, University of Texas at Austin, Marine Science Institute
 
 2021-2024: Lab Manager, University of Texas at Austin
 
@@ -122,7 +125,7 @@ title: "People"
 
 [Research focus:]{.underline} Anaerobic microbial electron transfer methods and biogeochemistry
 
-BS, Biology, University of Texas at Austin
+2022-present: BS Student, Biology, University of Texas at Austin
 
 ```{=html}
 <div class="social-icons">
@@ -130,5 +133,3 @@ BS, Biology, University of Texas at Austin
         <a href="https://www.linkedin.com/in/sarah-v-gerlach/" target="_blank" rel="noopener noreferrer"><i class="ci ci-linkedin ci-2x"></i></a>
       </div>
 ```
-
-# 
