@@ -50,16 +50,17 @@ title: "People"
 
 **PhD Student**
 
-[Research focus:]{.underline} Text
+[Research focus:]{.underline} Microbial ecology and biogeochemistry of marine sediments and sea ice
 
 2023-present: PhD Student, Marine Science, University of Texas at Austin, Marine Science Institute
 
-2019-2023: BS, Marine Biology and Biological Oceanography, UC San Diego
+2019-2023: BS, Marine Biology, UC San Diego, Scripps Institution of Oceanography
 
 ```{=html}
 <div class="social-icons">
         <a href="mailto:k.callagher@utexas.edu" rel="noopener noreferrer"><i class="ci ci-outlook ci-2x"></i></a>
         <a href="https://www.linkedin.com/in/kaitlyn-callagher-2aa624267" target="_blank" rel="noopener noreferrer"><i class="ci ci-linkedin ci-2x"></i></a>
+        <a href="https://orcid.org/0009-0008-4070-0323" target="_blank" rel="noopener noreferrer"><i class="ci ci-orcid ci-2x"></i></a>
       </div>
 ```
 
