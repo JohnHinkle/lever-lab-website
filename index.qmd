@@ -8,3 +8,5 @@ subtitle: "Marine Biogeochemistry and Geobiology"
 The Lever Lab is located at the University of Texas Marine Science Institute in Port Aransas, TX.
 
 We pursue research questions of broad significance concerning the mechanistic and quantitative influence of microorganisms, humans, and abiotic factors on the short- and long-term fate of organic carbon in aquatic sediments and Earth’s crust.
+
+![](images/clipboard-3279314638.png)

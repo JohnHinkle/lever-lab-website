@@ -125,9 +125,11 @@ title: "People"
 
 # **Sarah Vienna Gerlach**
 
-**Undergraduate Student, Semester By The Sea**
+**Undergraduate Research Intern**
 
 [Research focus:]{.underline} Anaerobic microbial electron transfer methods and biogeochemistry
+
+2025-present: Undergraduate Research Intern, University of Texas at Austin, Marine Science Institute
 
 2022-present: BS Student, Biology, University of Texas at Austin
 
